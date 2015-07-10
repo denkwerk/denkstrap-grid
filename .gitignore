@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+
+# Temporary files
+.DS_Store
+
+# Node modules
+node_modules
+_node_modules-vargrant
+
+# Sass cache
+.sass-cache
+
+# Grunt intermediate storage
+.grunt
+
+# Generated distribution files
+dist
+
+# PhpStorm/Webstorm project files
+.idea
